@@ -2,10 +2,10 @@
 
 An introduction to Internet and Web technologies. Topics include Internet transport protocols, HTML5 and CSS3, Web page design and Website publishing. Emphasis is placed on fundamentals, design concepts and industry standards. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
 
-- CRN: **nnnnn**
+- CRN: **51668**
 - Course: **CSC 170**
 - Credits: **4.0**
-- Lecture Schedule: **DOW and DOW, nn:nn xM to nn:nn xM**
+- Lecture Schedule: **Tuesdays and Thursdays, 3:25 to 4:40 PM**
 - Building: **Goergen Hall**
 - Room: **101**
 
@@ -16,11 +16,10 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 
 ### Office Hours
 - **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc170.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor, TAs, and other students will answer as quickly as possible
-
-  **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, DOW and DOW at nn:nn to nn:nn xM.
+- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Monday, Wednesday, and Friday between 1:30 and 2:30 PM.
 
 ## Grading
-For each assignment, a grading rubric is provided. Rubrics will inform students how assignments are evaluated. 
+For each assignment, a grading rubric is provided. Rubrics will explain how assignments are evaluated. 
 
 ### Grading Schema
 
@@ -52,38 +51,39 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 
 **Help:** THIS IS IMPORTANT --> to get help on any lab assignment or project, students must go to a scheduled lab session and find one of the TAs and ask for help.
 
-| **Lab**    | **Day & Time**                    | **Location** | **Teaching Assistants** |
-| ---------- | --------------------------------- | ------------ | ----------------------- |
-| CRN: nnnnn | DOW & DOW<br>nn:nn xM to nn:nn xM | Gavett 208   | ta-name<br>ta-name      |
-| CRN: nnnnn | DOW & DOW<br>nn:nn xM to nn:nn xM | Gavett 208   | ta-name<br>ta-name      |
-| CRN: nnnnn | DOW & DOW<br>nn:nn xM to nn:nn xM | Gavett 208   | ta-name<br>ta-name      |
+| **Lab**    | **Day & Time**                             | **Location** | **Teaching Assistants**                                      |                                                              |                                                            |
+| ---------- | ------------------------------------------ | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
+| CRN: 51684 | Mondays and Wednesdays<br>9:00 to 10:15 AM | Gavett 208   | Liam Gousios<br>![william-gousios](media\william-gousios.jpg) | Cassidy Clayton<br/>![cassidy-clayton](media\cassidy-clayton.jpg) | Asude Baykal<br>![asude-baykal](media\asude-baykal.jpg)    |
+| CRN: 51696 | Mondays and Wednesdays<br/>3:25 to 4:40 PM | Gavett 208   | Rose Cricchio<br>![rose-cricchio](media\rose-cricchio.jpg)   | Daniel Cancelmo<br>![daniel-cancelmo](media\daniel-cancelmo.jpg) | Ryan Lin<br>![ryan-lin](media\ryan-lin.jpg)                |
+| CRN: 51673 | Tuesdays and Thursdays<br>9:40 to 10:55 AM | Gavett 244   | Kelly Thornton<br>![kelly-thornton](media\kelly-thornton.jpg) | Phoi Nguyen<br/>![phoi-nguyen](media\phoi-nguyen.jpg)        | Shafieul Alam<br>![shafieul-alam](media\shafieul-alam.jpg) |
 
 **Note:** throughout the semester, the assignments build on each other, meaning: students cannot complete one without successfully finishing the previous.  So, success in this course requires students to turn-in assignments on-time and in the right order.
 
 ### Due Dates
 For each assignment and project, the **due date** is shown near the top of the lab instructions. To avoid a zero grade, they must be turned-in via Blackboard on or before their due date.  
 
-Within **two days** of a student turning-in an assignment in Blackboard, their assigned TA is obligated to provide a grade ONE TIME only, and only if the assignment was submitted in Blackboard **on or before its due date**.  
+Within **two days** of turning-in an assignment in Blackboard, the student's assigned TA is obligated to provide a grade ONE TIME only, and only if the assignment was submitted in Blackboard **on or before its due date**.  
 
-### Second chances
+### Late assignments
+
+Late assignments will not be graded unless a prior arrangement has been made with the student's TA to get an **extension by one or two days**.  Extensions will only be granted two or three times, maximum, per semester, at the discretion of the TA. 
+
+The grade for assignments not turned-in on time with no prior arrangement for an extension will be zero.
+
+## Second chances
 
 Re-grading assignments is at the TA's discretion.  They are *not* obligated to do so.  However, within **two-days** of receiving a grade less than 100%, the student may fix the mistakes and re-submit the assignment in Blackboard for the *possibility* of having the assignment re-graded for full credit.  
 
 ***Situations when students should not expect a second chance...***
 
-- An assignment that appears to have been submitted on-time for the sole purpose of getting a second chance WILL NOT be re-graded.  I.e. the first submission must look like the student made an honest attempt to get the assignment right.  If it looks terrible (as determined by the TA's opinion), the grade will be left as-is and *not* re-graded.
+- An assignment that appears to have been submitted on-time for the sole purpose of getting a second chance WILL NOT be re-graded.  I.e. the first submission must look like the student made an honest attempt to get the assignment right.  If it looks terrible (as determined by the TA), the grade will be left as-is and *not* re-graded.
 - Late in the semester when the TAs and everyone is under the *crunch*, second chances will STOP.  When the TAs hit this point - when they're unable to keep-up - the professor will make an announcement in one of the lectures about this.
 - Recommended: late in the semester, students should check with their TA to see if they are able to re-grade their assignments.  (Don't assume it!  They are not obligated to do so.)
-
-### Late assignments
-Late assignments will not be graded unless a prior arrangement has been made with the student's TA to get an **extension by one or two days**.  Extensions will only be granted two or three times, maximum, per semester, at the discretion of the TA. 
-
-The grade for assignments not turned-in on time with no prior arrangement for an extension will be zero.
 
 ## Texts and Materials
 Because of the dynamic nature of the web development industry, this course does not use a textbook. All information required to pass the course comes from the lectures so attendance is mandatory.  
 
-**Important:** Because attendance is not graded the student is on their honor to go to all the lectures.  If a student is unable to attend a lecture, it is the student's responsibility to get the information missed from another student. (The Professor will not re-teach a lecture.) 
+**Important:** Because attendance is not graded the student is on their honor to go to all the lectures.  If a student is unable to attend a lecture, it is the student's responsibility to get the information missed from another student. (The Professor and TAs will not re-teach a lecture.) 
 
 Students' inability to answer exam questions, complete lab assignments, or complete projects because of a missed lecture is not a valid excuse.
 
@@ -98,6 +98,8 @@ In addition to the hosted Web service, provided by the University, students will
 If a student does not have a personal computer with these capabilities, the University provides open labs at various locations on campus that they can use.  Those computers have all the required capabilities and software installed and they are supported by University IT.  
 
 For reference: during lectures the professor will be using a **Macbook** and **Windows PC** (alternatively) and a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3)). For FTP demonstrations, the professor will use **Cyberduck** (for Mac, [cyberduck.io](http://cyberduck.io)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php)).  Demonstrations during the lecture and in labs will be done using **Google Chrome**.
+
+Mid-way through the semester, the professor will introduce web server software that students can optionally install on their own computer.  The server (**Apache** from [httpd.apache.org](https://httpd.apache.org/)) can be installed using the free version of packaged software from: MAMP (for both PC and Mac, www.mamp.info/en)
 
 ### Communication
 

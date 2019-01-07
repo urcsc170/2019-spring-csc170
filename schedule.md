@@ -1,9 +1,68 @@
 # 		Schedule
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
-|      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- |
-|      |      |      |      |      |
-|      |      |      |      |      |
+|                              | LECTURE <br>CRN: 51668<br>Tuesdays and Thursdays, 3:25 - 4:40 PM | LABS 1 and 2<br>CRN: 51684 and Lab CRN: 51696<br>Mondays and Wednesdays, 9:00 - 10:15 AM, and 3:25 - 4:40 PM | LAB 3<br>CRN: 51673<br>Tuesdays and Thursdays, 9:40 - 10:55 AM |
+| ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Wednesday, January 16, 2019  |                                                              | Lab 1: Account Setup                                         |                                                              |
+| Thursday, January 17, 2019   | Introduction to the Industry                                 |                                                              | Lab 1: Account Setup                                         |
+| Monday, January 21, 2019     |                                                              | HOLIDAY                                                      |                                                              |
+| Tuesday, January 22, 2019    | The Internet                                                 |                                                              | OPEN LAB (staffed)                                           |
+| Wednesday, January 23, 2019  |                                                              | Lab 2: First HTML Webpage                                    |                                                              |
+| Thursday, January 24, 2019   | The Web and HTML                                             |                                                              | Lab 2: First HTML Webpage                                    |
+| Monday, January 28, 2019     |                                                              | Lab 3: Content Prep                                          |                                                              |
+| Tuesday, January 29, 2019    | Web Document Structure                                       |                                                              | Lab 3: Content Prep                                          |
+| Wednesday, January 30, 2019  |                                                              | Lab 4: Structured HTML Document                              |                                                              |
+| Thursday, January 31, 2019   | Webpage Presentation, part 1                                 |                                                              | Lab 4: Structured HTML Document                              |
+| Monday, February 4, 2019     |                                                              | Lab 5: CSS for Formatting, part 1                            |                                                              |
+| Tuesday, February 5, 2019    | Webpage Presentation, part 2                                 |                                                              | Lab 5: CSS for Formatting, part 1                            |
+| Wednesday, February 6, 2019  |                                                              | Lab 6: CSS for Formatting, part 2                            |                                                              |
+| Thursday, February 7, 2019   | Webpage Layout, part 1                                       |                                                              | Lab 6: CSS for Formatting, part 2                            |
+| Monday, February 11, 2019    |                                                              | OPEN LAB (staffed)                                           |                                                              |
+| Tuesday, February 12, 2019   | Webpage Layout, part 2                                       |                                                              | OPEN LAB (staffed)                                           |
+| Wednesday, February 13, 2019 |                                                              | Lab 7: CSS for Layout                                        |                                                              |
+| Thursday, February 14, 2019  | Website Navigation, part 1                                   |                                                              | Lab 7: CSS for Layout                                        |
+| Monday, February 18, 2019    |                                                              | Lab 8: CSS for Navigation                                    |                                                              |
+| Tuesday, February 19, 2019   | Website Navigation, part 2                                   |                                                              | Lab 8: CSS for Navigation                                    |
+| Wednesday, February 20, 2019 |                                                              | OPEN LAB (staffed)                                           |                                                              |
+| Thursday, February 21, 2019  | Images for the Web, part 1                                   |                                                              | OPEN LAB (staffed)                                           |
+| Monday, February 25, 2019    |                                                              | Lab 9: Images for the Web, part 1                            |                                                              |
+| Tuesday, February 26, 2019   | Images for the Web, part 2                                   |                                                              | Lab 9: Images for the Web, part 1                            |
+| Wednesday, February 27, 2019 |                                                              | Lab 10: Images for the Web, part 2                           |                                                              |
+| Thursday, February 28, 2019  | MIDTERM REVIEW                                               |                                                              | Lab 10: Images for the Web, part 2                           |
+| Monday, March 4, 2019        |                                                              | MIDTERM EXAM                                                 |                                                              |
+| Tuesday, March 5, 2019       | Project 2 Review                                             |                                                              | MIDTERM EXAM                                                 |
+| Wednesday, March 6, 2019     |                                                              | CANCELLED (no staff)                                         |                                                              |
+| Thursday, March 7, 2019      | WAMP and MAMP Introduction                                   |                                                              | CANCELLED (no staff)                                         |
+| Monday, March 11, 2019       |                                                              | SPRING BREAK                                                 |                                                              |
+| Tuesday, March 12, 2019      | SPRING BREAK                                                 |                                                              | SPRING BREAK                                                 |
+| Wednesday, March 13, 2019    |                                                              | SPRING BREAK                                                 |                                                              |
+| Thursday, March 14, 2019     | SPRING BREAK                                                 |                                                              | SPRING BREAK                                                 |
+| Monday, March 18, 2019       |                                                              | OPEN LAB (staffed)                                           |                                                              |
+| Tuesday, March 19, 2019      | Website Construction, part 1                                 |                                                              | OPEN LAB (staffed)                                           |
+| Wednesday, March 20, 2019    |                                                              | Lab 11: PHP Includes                                         |                                                              |
+| Thursday, March 21, 2019     | HTML Forms, part 1                                           |                                                              | Lab 11: PHP Includes                                         |
+| Monday, March 25, 2019       |                                                              | Lab 12: HTML Forms, part 1                                   |                                                              |
+| Tuesday, March 26, 2019      | HTML Forms, part 2                                           |                                                              | Lab 12: HTML Forms, part 1                                   |
+| Wednesday, March 27, 2019    |                                                              | Lab 13: HTML Forms, part 2                                   |                                                              |
+| Thursday, March 28, 2019     | Webpage Behavior, part 1                                     |                                                              | Lab 13: HTML Forms, part 2                                   |
+| Monday, April 1, 2019        |                                                              | Lab 14: JavaScript, part 1                                   |                                                              |
+| Tuesday, April 2, 2019       | Webpage Behavior, part 2                                     |                                                              | Lab 14: JavaScript, part 1                                   |
+| Wednesday, April 3, 2019     |                                                              | Lab 15: JavaScript, part 2                                   |                                                              |
+| Thursday, April 4, 2019      | Libraries and Plugins                                        |                                                              | Lab 15: JavaScript, part 2                                   |
+| Monday, April 8, 2019        |                                                              | Lab 16: JavaScript plugins                                   |                                                              |
+| Tuesday, April 9, 2019       | Website Construction, part 2                                 |                                                              | Lab 16: JavaScript plugins                                   |
+| Wednesday, April 10, 2019    |                                                              | Lab 17: Menu Highlighter                                     |                                                              |
+| Thursday, April 11, 2019     | Mobile Design, part 1                                        |                                                              | Lab 17: Menu Highlighter                                     |
+| Monday, April 15, 2019       |                                                              | OPEN LAB (staffed)                                           |                                                              |
+| Tuesday, April 16, 2019      | Mobile Design, part 2                                        |                                                              | OPEN LAB (staffed)                                           |
+| Wednesday, April 17, 2019    |                                                              | Lab 18: Mobile Design                                        |                                                              |
+| Thursday, April 18, 2019     | Driving Traffic to Websites, part 1                          |                                                              | Lab 18: Mobile Design                                        |
+| Monday, April 22, 2019       |                                                              | OPEN LAB (staffed)                                           |                                                              |
+| Tuesday, April 23, 2019      | Driving Traffic to Websites, part 2                          |                                                              | OPEN LAB (staffed)                                           |
+| Wednesday, April 24, 2019    |                                                              | Lab 19: Search Engine Optimization                           |                                                              |
+| Thursday, April 25, 2019     | FINAL REVIEW                                                 |                                                              | Lab 19: Search Engine Optimization                           |
+| Monday, April 29, 2019       |                                                              | FINAL EXAM                                                   |                                                              |
+| Tuesday, April 30, 2019      | CANCELLED                                                    |                                                              | FINAL EXAM                                                   |
+| Wednesday, May 1, 2019       |                                                              | CANCELLED (no staff)                                         |                                                              |
 
 *Note: there is nothing scheduled in Exam Week for CSC 170 (the final exam is in the regularly scheduled labs ...see the schedule, above)*

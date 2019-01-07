@@ -7,10 +7,10 @@ Web Design and Development
 <hr>
 
 - Current topic
-  - 
+  - Introduction to the Industry
 
 - Current assignments you should be working on
-  - 
+  - Lab 1: Account Setup
 
 <hr>
 

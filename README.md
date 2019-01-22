@@ -7,15 +7,15 @@ Web Design and Development
 <hr>
 
 - Current topic
-  - **Introduction to the Industry**
+  - **The Internet**
 
 - Current assignments you should be working on
-  - [Lab 1: Account Setup](lab01-account-setup/instructions.md)
+  - [nothing new - just be ready for Lab 2 on Wednesday/Thursday]
 
 <hr>
 
 - Previous topics
-  - 
+  - **Introduction to the Industry**
 
 - Previous assignments
-  - 
+  - [Lab 1: Account Setup](lab01-account-setup/instructions.md)

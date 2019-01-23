@@ -10,7 +10,7 @@ Web Design and Development
   - **The Internet**
 
 - Current assignments you should be working on
-  - [nothing new - just be ready for Lab 2 on Wednesday/Thursday]
+  - [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) (due: Monday, January 28)
 
 <hr>
 

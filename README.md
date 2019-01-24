@@ -7,7 +7,7 @@ Web Design and Development
 <hr>
 
 - Current topic
-  - **The Internet**
+  - **The Web and HTML**
 
 - Current assignments you should be working on
   - [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) (due: Monday, January 28)
@@ -15,7 +15,8 @@ Web Design and Development
 <hr>
 
 - Previous topics
-  - **Introduction to the Industry**
 
+  - **The Internet**
+  - **Introduction to the Industry**
 - Previous assignments
   - [Lab 1: Account Setup](lab01-account-setup/instructions.md)

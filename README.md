@@ -10,7 +10,7 @@ Web Design and Development
 
   - **Web Document Structure**
 - Current assignments you should be working on
-  - [Lab 3: Content Prep](lab03-content-prep/instructions.md) (due: Wednesday, January 30)
+  - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Monday, February 4)
 
 <hr>
 
@@ -21,5 +21,6 @@ Web Design and Development
   - **Introduction to the Industry**
 - Previous assignments
 
-  - [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) (due: Monday, January 28)
+  - [Lab 3: Content Prep](lab03-content-prep/instructions.md) (due: Wednesday, January 30)
+  - [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md)
   - [Lab 1: Account Setup](lab01-account-setup/instructions.md)

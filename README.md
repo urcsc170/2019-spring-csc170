@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - **Web Document Structure**
+  - **Webpage Presentation, part 1**
 - Current assignments you should be working on
   - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Monday, February 4)
 
@@ -16,6 +16,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **Web Document Structure**
   - **The Web and HTML**
   - **The Internet**
   - **Introduction to the Industry**
@@ -24,3 +25,4 @@ Web Design and Development
   - [Lab 3: Content Prep](lab03-content-prep/instructions.md) (due: Wednesday, January 30)
   - [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md)
   - [Lab 1: Account Setup](lab01-account-setup/instructions.md)
+

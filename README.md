@@ -8,18 +8,20 @@ Web Design and Development
 
 - Current topic
 
-  - **Webpage Presentation, part 1**
+  - **05. Webpage Presentation, part 2** and **Project 1 Review**
 - Current assignments you should be working on
   - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) (due: Wednesday, February 6)
+  - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Thursday, February 28)
 
 <hr>
 
 - Previous topics
 
-  - **Web Document Structure**
-  - **The Web and HTML**
-  - **The Internet**
-  - **Introduction to the Industry**
+  - **05. Webpage Presentation, part 1**
+  - **04. Web Document Structure**
+  - **03. The Web and HTML**
+  - **02. The Internet**
+  - **01. Introduction to the Industry**
 - Previous assignments
 
   - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Monday, February 4)

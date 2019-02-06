@@ -10,7 +10,8 @@ Web Design and Development
 
   - **05. Webpage Presentation, part 2** and **Project 1 Review**
 - Current assignments you should be working on
-  - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) (due: Wednesday, February 6)
+
+  - [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due: Wednesday, February 13 ...one week!)
   - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Thursday, February 28)
 
 <hr>
@@ -24,7 +25,8 @@ Web Design and Development
   - **01. Introduction to the Industry**
 - Previous assignments
 
-  - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Monday, February 4)
+  - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) (due: Wednesday, February 6)
+  - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md)
   - [Lab 3: Content Prep](lab03-content-prep/instructions.md)
   - [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md)
   - [Lab 1: Account Setup](lab01-account-setup/instructions.md)

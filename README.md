@@ -11,7 +11,7 @@ Web Design and Development
   - **08. CSS for Layout, part 2**
 - Current assignments you should be working on
 
-  - [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due: Wednesday, February 13 ...one week!)
+  - [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Monday, February 18)
   - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Thursday, February 28)
 
 <hr>
@@ -27,7 +27,8 @@ Web Design and Development
   - **01. Introduction to the Industry**
 - Previous assignments
 
-  - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) (due: Wednesday, February 6)
+  - [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) 
+  - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) 
   - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md)
   - [Lab 3: Content Prep](lab03-content-prep/instructions.md)
   - [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md)

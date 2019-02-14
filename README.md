@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - **08. CSS for Layout, part 2**
+  - **09. Website Navigation, part 1**
 - Current assignments you should be working on
 
   - [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Monday, February 18)
@@ -18,6 +18,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **08. CSS for Layout, part 2**
   - **07. CSS for Layout, part 1**
   - **06. Webpage Presentation, part 2** and **Project 1 Review**
   - **05. Webpage Presentation, part 1**

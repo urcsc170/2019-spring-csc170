@@ -1,5 +1,5 @@
 # Lab 8: CSS for Navigation
-*Due: Monday, November 25, 2019 - one week!*
+*Due: Monday, February 25, 2019 - one week!*
 
 This lab has three parts to it:
 

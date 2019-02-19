@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - **09. Website Navigation, part 1**
+  - **10. Website Navigation, part 2**
 - Current assignments you should be working on
 
   - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Monday, February 25)
@@ -18,6 +18,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **09. Website Navigation, part 1**
   - **08. CSS for Layout, part 2**
   - **07. CSS for Layout, part 1**
   - **06. Webpage Presentation, part 2** and **Project 1 Review**
@@ -28,7 +29,7 @@ Web Design and Development
   - **01. Introduction to the Industry**
 - Previous assignments
 
-  - [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Monday, February 18)
+  - [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md)
   - [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) 
   - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) 
   - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md)

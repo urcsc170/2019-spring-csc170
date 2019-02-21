@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - **10. Website Navigation, part 2**
+  - **11. Images for the Web, part 1**
 - Current assignments you should be working on
 
   - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Monday, February 25)
@@ -18,6 +18,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **10. Website Navigation, part 2**
   - **09. Website Navigation, part 1**
   - **08. CSS for Layout, part 2**
   - **07. CSS for Layout, part 1**

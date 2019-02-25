@@ -11,7 +11,7 @@ Web Design and Development
   - **11. Images for the Web, part 1**
 - Current assignments you should be working on
 
-  - [Lab 9: Background Images](lab09-background-images/instructions.md) (due: Monday, February 25)
+  - [Lab 9: Background Images](lab09-background-images/instructions.md) (due: Wednesday, February 27)
   - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Thursday, February 28)
 
 <hr>

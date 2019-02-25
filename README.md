@@ -11,7 +11,7 @@ Web Design and Development
   - **11. Images for the Web, part 1**
 - Current assignments you should be working on
 
-  - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Monday, February 25)
+  - [Lab 9: Background Images](lab09-background-images/instructions.md) (due: Monday, February 25)
   - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Thursday, February 28)
 
 <hr>
@@ -30,6 +30,7 @@ Web Design and Development
   - **01. Introduction to the Industry**
 - Previous assignments
 
+  - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md)
   - [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md)
   - [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) 
   - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) 
@@ -37,4 +38,3 @@ Web Design and Development
   - [Lab 3: Content Prep](lab03-content-prep/instructions.md)
   - [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md)
   - [Lab 1: Account Setup](lab01-account-setup/instructions.md)
-

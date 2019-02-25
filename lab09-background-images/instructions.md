@@ -9,15 +9,15 @@ In this step you'll need to find and prepare two images: one for use as stylized
 
 - [ ] The image must be about something related to the content in your lab assignments
 
-- [ ] The image must be the appropriate file type - it must be a type that popular web browsers support and it must support *transparency*  (also known as an "alpha layer")
+- [ ] The image must be the appropriate file type - it must be a type that popular web browsers support
 
-- Suggestion: Google something like "________________________ logo transparent background"<br>example:  `shakespeare logo transparent background`
+- Suggestion: Google something like "________________________ logo"<br>example:  `shakespeare logo`
 
 ![screen cap](media/figure1.png)<br>...then drag the image to your computer's desktop and rename it.
 
 - [ ] The image must be very small - about 40 pixels square (or squarish)
 
-  - Most likely you'll find a good image but it will be too big.  Use software to resize it but be careful - many picture editing programs will *not* **retain the transparency layer** when you save it!  You might need to use Photoshop or some other high-end software to make sure you don't lose the transparency layer.
+  - Most likely you'll find a good image but it will be too big.  Use software to resize it.
 
 Here is the result, after renaming to **logo.png** and resizing it to 36x36 pixels: ![screen cap](media/figure2.png)
 
@@ -90,7 +90,7 @@ You might want to try light - or white text - instead of dark text (color), depe
 
 Code to do the following was demo'd by the professor in the lecture on images.  Refer to your notes.
 
-- [ ] Edit the **styles.css** file in the **css** folder - edit the *h2* style - add the small logo image with the transparency as a background image using the `background-image` property
+- [ ] Edit the **styles.css** file in the **css** folder - edit the *h2* style - add the small logo image as a background image using the `background-image` property
   - Remember the syntax for the background-image property; it uses that `url()` value thing
   - Also remember the thing about writing a *path* to a *sibling* folder - tricky!
   - Turn off the "repeat" using the `background-repeat` property  

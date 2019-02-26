@@ -26,7 +26,9 @@ This schedule is subject to modification throughout the semester. Always check w
 | Wednesday, February 20, 2019 |                                                              | OPEN LAB (staffed)                                           |                                                              |
 | Thursday, February 21, 2019  | **11. Images for the Web, part 1**<br><br>[Images for the Web (PDF)](11-images-for-the-web/images-for-the-web.pdf) |                                                              | OPEN LAB (staffed)                                           |
 | Monday, February 25, 2019    |                                                              | [Lab 9: Background Images](lab09-background-images/instructions.md) |                                                              |
-| Tuesday, February 26, 2019   | **Project 2 Review** |                                                              | [Lab 9: Background Images](lab09-background-images/instructions.md) |
+| Tuesday, February 26, 2019   | **Project 2 Review**<br><br>[Project 2 Examples (online)](http://csc170.org/examples/)
+
+[Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Tuesday, March 21) |                                                              | [Lab 9: Background Images](lab09-background-images/instructions.md) |
 | Wednesday, February 27, 2019 |                                                              | OPEN LAB (staffed) |                                                              |
 | Thursday, February 28, 2019  | MIDTERM REVIEW                                               |                                                              | OPEN LAB (staffed) |
 | Monday, March 4, 2019        |                                                              | MIDTERM EXAM                                                 |                                                              |

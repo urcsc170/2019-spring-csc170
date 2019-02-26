@@ -8,16 +8,18 @@ Web Design and Development
 
 - Current topic
 
-  - **11. Images for the Web, part 1**
+  - **12. Project 2 Review**
 - Current assignments you should be working on
 
   - [Lab 9: Background Images](lab09-background-images/instructions.md) (due: Wednesday, February 27)
   - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Thursday, February 28)
+  - [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Tuesday, March 21)
 
 <hr>
 
 - Previous topics
 
+  - **11. Images for the Web, part 1**
   - **10. Website Navigation, part 2**
   - **09. Website Navigation, part 1**
   - **08. CSS for Layout, part 2**

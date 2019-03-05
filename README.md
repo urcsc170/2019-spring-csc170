@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - **MIDTERM REVIEW**
+  - **14. WAMP and MAMP**
 - Current assignments you should be working on
 
   - [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Tuesday, March 21)
@@ -17,6 +17,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **13. Midterm Review**
   - **12. Project 2 Review**
   - **11. Images for the Web, part 1**
   - **10. Website Navigation, part 2**

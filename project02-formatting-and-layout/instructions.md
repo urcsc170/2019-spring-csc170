@@ -9,7 +9,7 @@ The result will be a **formatted document** that uses some version of a **column
 
 - Start with the final version of your HTML document you created for Project 1.  
   - Project 1 and Project 2 will be compared against each other to make sure the content is all there and similar.  Although the *content* from Project 1 has to be in Project 2, the HTML code *may* change in limited ways. Still though, the intent is to leave the Project 1 content as-is, as much as possible.
-  - The content must continue to in one HTML file.  (Do not split your content into multiple HTML files!)
+  - The content must be in one HTML file.  (Do not split your content into multiple HTML files!)
   - You can add classes to elements.  For example, you can change a `<p>` into `<p class="lead">` , or add a `<div>` as need ...whatever is necessary for styling.
   - IF NEED BE, you can shuffle content around in the HTML document – move blocks of content from one area to another, but only if you really have to.
 - The **title** in the `<title>` tag (in the `<head>`) must be updated to say, "**Project 2 -** " followed by your topic, for example: `<title>Project 2 - Marc Andreessen</title>`

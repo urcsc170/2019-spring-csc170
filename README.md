@@ -8,15 +8,17 @@ Web Design and Development
 
 - Current topic
 
-  - **14. WAMP and MAMP**
+  - **16. Website Construction, part 1**
 - Current assignments you should be working on
 
+  - Lab 10: PHP Includes (coming soon)
   - [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Tuesday, March 21)
 
 <hr>
 
 - Previous topics
 
+  - **14. WAMP and MAMP**
   - **13. Midterm Review**
   - **12. Project 2 Review**
   - **11. Images for the Web, part 1**

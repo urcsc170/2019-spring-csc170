@@ -37,8 +37,8 @@ Note: although you know how to create *in-page* (jump) links, navigation is *not
 ## Container
 
 - Project 2 must use a “container” to constrain its content in some way and keep it "floated" in the center of the web browser window.  You don’t have to constrain *all* your content (although that’s okay if you do), but you must demonstrate good use of the trick.  
-- The goal of the container is to keep any line of normal-sized text from extending any wider than say, 600px or so, which would be a readability problem.
-  - Note: you must *not* constrain all the content within 600px.  (That would be a waste of space.)  Just make sure that no paragraph of text is allowed to get any wider than that.
+- The goal of a container is to keep any paragraph from extending any wider than say, 600px or so, which would be a readability problem.  
+  - Note: you must *not* constrain *all* the content within 600px.  (That would be a waste of space.)  Just make sure that no paragraph of text is allowed to get any wider than that.
 
 ## Layout
 

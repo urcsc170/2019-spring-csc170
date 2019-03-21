@@ -8,16 +8,17 @@ Web Design and Development
 
 - Current topic
 
-  - **16. Website Construction, part 1**
+  - **17. HTML Forms, part 1**
 - Current assignments you should be working on
 
+  - Lab 11: HTML Forms, part 1 (coming soon)
   - [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: Monday, Monday, March 25)
-  - [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Thursday, March 21)
 
 <hr>
 
 - Previous topics
 
+  - **16. Website Construction, part 1**
   - **14. WAMP and MAMP**
   - **13. Midterm Review**
   - **12. Project 2 Review**
@@ -34,6 +35,7 @@ Web Design and Development
   - **01. Introduction to the Industry**
 - Previous assignments
 
+  - [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Thursday, March 21)
   - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md)
   - [Lab 9: Background Images](lab09-background-images/instructions.md)
   - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md)

@@ -11,8 +11,7 @@ Web Design and Development
   - **17. HTML Forms, part 1**
 - Current assignments you should be working on
 
-  - Lab 11: HTML Forms, part 1 (coming soon)
-  - [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: Monday, Monday, March 25)
+  - [Lab 11: HTML Forms, part 1](lab10-php-includes/instructions.md) (due: Wednesday, March 27)
 
 <hr>
 
@@ -35,7 +34,8 @@ Web Design and Development
   - **01. Introduction to the Industry**
 - Previous assignments
 
-  - [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Thursday, March 21)
+  - [Lab 10: PHP Includes](lab10-php-includes/instructions.md)
+  - [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md)
   - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md)
   - [Lab 9: Background Images](lab09-background-images/instructions.md)
   - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md)

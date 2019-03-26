@@ -8,15 +8,17 @@ Web Design and Development
 
 - Current topic
 
-  - **17. HTML Forms, part 1**
+  - **18. HTML Forms, part 2**
 - Current assignments you should be working on
 
+  - Lab 12: HTML Forms, part 2 (coming: Wednesday, March 27)
   - [Lab 11: HTML Forms, part 1](lab11-html-forms1/instructions.md) (due: Wednesday, March 27)
 
 <hr>
 
 - Previous topics
 
+  - **17. HTML Forms, part 1**
   - **16. Website Construction, part 1**
   - **14. WAMP and MAMP**
   - **13. Midterm Review**

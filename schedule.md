@@ -42,7 +42,8 @@ This schedule is subject to modification throughout the semester. Always check w
 | Wednesday, March 20, 2019    |                                                              | [Lab 10: PHP Includes](lab10-php-includes/instructions.md)   |                                                              |
 | Thursday, March 21, 2019     | **17. HTML Forms, part 1**<br><br>[HTML Forms, part 1 (PDF)](17-html-forms1/html-forms1.pdf) |                                                              | [Lab 10: PHP Includes](lab10-php-includes/instructions.md)   |
 | Monday, March 25, 2019       |                                                              | [Lab 11: HTML Forms, part 1](lab11-html-forms1/instructions.md) |                                                              |
-| Tuesday, March 26, 2019      | HTML Forms, part 2                                           |                                                              | [Lab 11: HTML Forms, part 1](lab11-html-forms1/instructions.md) |
+| Tuesday, March 26, 2019      | **18. HTML Forms, part 2**<br/>
+[HTML Forms, part 2 (PDF)](18-html-forms2/html-forms2.pdf) |                                                              | [Lab 11: HTML Forms, part 1](lab11-html-forms1/instructions.md) |
 | Wednesday, March 27, 2019    |                                                              | Lab 12: HTML Forms, part 2                                   |                                                              |
 | Thursday, March 28, 2019     | Webpage Behavior, part 1                                     |                                                              | Lab 12: HTML Forms, part 2                                   |
 | Monday, April 1, 2019        |                                                              | Lab 13: JavaScript, part 1                                   |                                                              |

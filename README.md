@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - **18. HTML Forms, part 2**
+  - **19. Webpage Behavior (JavaScript), part 1**
 - Current assignments you should be working on
 
   - [Lab 12: HTML Forms, part 2](lab12-html-forms2/instructions.md) (due: Monday, April 1)
@@ -17,6 +17,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **18. HTML Forms, part 2**
   - **17. HTML Forms, part 1**
   - **16. Website Construction, part 1**
   - **14. WAMP and MAMP**

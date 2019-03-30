@@ -1,5 +1,5 @@
 # Lab 12: HTML Forms, Part 2
-*Due: Monday, April 1, 2019*
+*Due: Wednesday, April 3, 2019*
 
 For this lab you will integrate the non-working HTML form from Lab 11 into your lab website and power it with a PHP script.
 

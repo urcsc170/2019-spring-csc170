@@ -12,11 +12,11 @@ For this lab you will integrate the non-working HTML form from Lab 11 into your 
 - Make a duplicate of one of your existing webpages - any of them *except* start.php - name it: **contact.php**
 - Edit the new **contact.php** file:
   - Delete the ARTICLE and ASIDE and all their contents
-- Get your Lab 11 file, **contact.html** and copy-out the FORM element (all of it, from the opening FORM tag to the closing FORM tag) and paste it into the new **contact.php** file, under the *nav.inc* statement
-- Edit your **inc/nav.inc** file:
+- Get your Lab 11 file, **contact.html** and copy-out the FORM element (all of it, from the opening FORM tag to the closing FORM tag) and paste it into the new **contact.php** file, under the *nav.php* statement
+- Edit your **inc/nav.php** file:
   - Add a list item to the new **contact.php** file
   - Have the text for the link say something like "Contact Us" ...or something like that
-  - Save and close the **inc/nav.inc** file
+  - Save and close the **inc/nav.php** file
 
 ## Step 3: Add Styles to the HTML Form
 
@@ -37,7 +37,7 @@ For this lab you will integrate the non-working HTML form from Lab 11 into your 
 
 - Save and close the **css/styles.css** file
 
-- Edit the **inc/html-top.inc** file:
+- Edit the **inc/html-top.php** file:
 
   - Change the TITLE to say "Lab 12..." instead of Lab 10
 
@@ -47,7 +47,7 @@ For this lab you will integrate the non-working HTML form from Lab 11 into your 
     <link rel="stylesheet" href="css/forms.css">
     ```
 
-- Save and close the **inc/html-top.inc** file
+- Save and close the **inc/html-top.php** file
 
 - Create a new file in the **css** folder named **forms.css**
 
@@ -78,7 +78,7 @@ For this lab you will integrate the non-working HTML form from Lab 11 into your 
 
   - Delete the ARTICLE and ASIDE and all their contents
 
-- Under the *nav.inc* statement, add a MAIN element with an attribute: `class="full-width"` and add some content like this:
+- Under the *nav.php* statement, add a MAIN element with an attribute: `class="full-width"` and add some content like this:
 
   ```html
   <main class="full-width">
@@ -92,7 +92,7 @@ For this lab you will integrate the non-working HTML form from Lab 11 into your 
 ## Step 5: Add and Edit the Form Processing Script
 
 - Download the ZIP'd file: [form_processing_script.zip](form_processing_script.zip) and extract the text file 
-- Copy all the text out of that file (112 lines) and paste it in the TOP of your **form-processor.php** file, *above* the PHP **inc/html-top.inc** statement on Line 1
+- Copy all the text out of that file (112 lines) and paste it in the TOP of your **form-processor.php** file, *above* the PHP **inc/html-top.php** statement on Line 1
 - Fill-in the blanks in the PHP form processor as demonstrated in the last lecture 
   - Make sure the superglobals match your `name=""` attributes from your HTML form exactly (remember: case sensitive!)
   - Create variable names for the incoming data that make sense; typically you can use the same word(s) you used in the superglobals, for example `$name = $_POST['name'];`

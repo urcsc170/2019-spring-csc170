@@ -8,10 +8,10 @@ Web Design and Development
 
 - Current topic
 
-  - **20. Webpage Behavior, part 2**
+  - **20. Webpage Behavior, part 2** and **Project 3 Review**
 - Current assignments you should be working on
 
-  - [Lab 12: HTML Forms, part 2](lab12-html-forms2/instructions.md) (due: Monday, April 1)
+  - [Lab 13: JavaScript](lab13-javascript-basics/instructions.md) (due: Monday, April 8)
   - [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Thursday, April 25)
 
 <hr>

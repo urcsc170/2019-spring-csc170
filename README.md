@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - **20. Webpage Behavior, part 2** and **Project 3 Review**
+  - **21. JavaScript Libraries and Plugins**
 - Current assignments you should be working on
 
   - [Lab 13: JavaScript](lab13-javascript-basics/instructions.md) (due: Monday, April 8)
@@ -18,6 +18,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **20. Webpage Behavior, part 2** and **Project 3 Review**
   - **19. Webpage Behavior (JavaScript), part 1**
   - **18. HTML Forms, part 2**
   - **17. HTML Forms, part 1**

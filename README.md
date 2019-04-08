@@ -11,7 +11,7 @@ Web Design and Development
   - **21. JavaScript Libraries and Plugins**
 - Current assignments you should be working on
 
-  - [Lab 13: JavaScript](lab13-javascript-basics/instructions.md) (due: Monday, April 8)
+  - [Lab 14: JavaScript plugins](lab14-javascript-plugins/instructions.md) (due: Wednesday, April 10)
   - [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Thursday, April 25)
 
 <hr>
@@ -39,6 +39,7 @@ Web Design and Development
   - **01. Introduction to the Industry**
 - Previous assignments
 
+  - [Lab 13: JavaScript](lab13-javascript-basics/instructions.md)
   - [Lab 12: HTML Forms, part 2](lab12-html-forms2/instructions.md)
   - [Lab 11: HTML Forms, part 1](lab11-html-forms1/instructions.md)
   - [Lab 10: PHP Includes](lab10-php-includes/instructions.md)

@@ -11,7 +11,7 @@ Web Design and Development
   - **22. Website Construction, part 2** with [Menu Highlighter - jQuery plugin (ZIP)](22-website-construction2/menu-highlighter.zip)
 - Current assignments you should be working on
 
-  - [Lab 14: JavaScript plugins](lab14-javascript-plugins/instructions.md) (due: Wednesday, April 10)
+  - [Lab 15: Menu Highlighter Plugin](lab15-menu-highlighter/instructions.md) (Wednesday, April 17 2019 ...a full week)
   - [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Thursday, April 25)
 
 <hr>
@@ -40,6 +40,7 @@ Web Design and Development
   - **01. Introduction to the Industry**
 - Previous assignments
 
+  - [Lab 14: JavaScript plugins](lab14-javascript-plugins/instructions.md) 
   - [Lab 13: JavaScript](lab13-javascript-basics/instructions.md)
   - [Lab 12: HTML Forms, part 2](lab12-html-forms2/instructions.md)
   - [Lab 11: HTML Forms, part 1](lab11-html-forms1/instructions.md)

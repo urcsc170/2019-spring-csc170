@@ -8,6 +8,7 @@ Web Design and Development
 
 - Current topic
 
+  - **23. Mobile Design, part 1**
   - **22. Website Construction, part 2** with [Menu Highlighter - jQuery plugin (ZIP)](22-website-construction2/menu-highlighter.zip)
 - Current assignments you should be working on
 
@@ -18,6 +19,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **22. Website Construction, part 2** with [Menu Highlighter - jQuery plugin (ZIP)](
   - **21. JavaScript Libraries and Plugins**
   - **20. Webpage Behavior, part 2** and **Project 3 Review**
   - **19. Webpage Behavior (JavaScript), part 1**

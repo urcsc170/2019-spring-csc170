@@ -8,7 +8,8 @@ You will also fix a problem with the CSS files you've been adding to your websit
 ## Step 1: Install the Menu Highlighter Plugin
 
 - [ ] Make a copy of your **lab14** folder.  Call it **lab15**
-- [ ] [Download the **menu-highlighter.js** file (in a ZIP file)](menu-highlighter.zip), extract the JS file and put it in the **js** folder in your **lab15** folder
+- [ ] In the **lab15** folder, create a folder named **js**
+- [ ] [Download the **menu-highlighter.js** file (in a ZIP file)](menu-highlighter.zip), extract the JS file and put it in the **js** folder 
 
 Note:  The **menu-highlighter.js** file will automatically insert the "is-current" class on the appropriate menu item in the navigation.  But you have to install the **menu-highlighter.js** file on every page to make it work.  But instead of doing that on every page…
 

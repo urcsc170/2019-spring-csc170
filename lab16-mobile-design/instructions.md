@@ -74,7 +74,7 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
 
      ```css
      @media (max-width: 650px) {
-          .lead { display: block; } /* ...this will un-do CSS Grid on the container */
+          .inner-container { display: block; } /* ...this will un-do CSS Grid on the container */
      }
      ```
 

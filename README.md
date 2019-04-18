@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - **23. Mobile Design**
+  - **25. Driving Traffic to Websites, part 1**
 - Current assignments you should be working on
 
   - [Lab 16: Mobile Design](lab16-mobile-design/instructions.md) (due: Wednesday, April 24 ...a full week)
@@ -18,6 +18,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **23. Mobile Design**
   - **22. Website Construction, part 2** with [Menu Highlighter - jQuery plugin (ZIP)](22-website-construction2/menu-highlighter.zip)
   - **21. JavaScript Libraries and Plugins**
   - **20. Webpage Behavior, part 2** and **Project 3 Review**

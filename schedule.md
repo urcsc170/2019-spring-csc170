@@ -61,8 +61,8 @@ This schedule is subject to modification throughout the semester. Always check w
 | Tuesday, April 23, 2019      | Driving Traffic to Websites, part 2                          |                                                              | Lab 17: Search Engine Optimization                           |
 | Wednesday, April 24, 2019    |                                                              | OPEN LAB (staffed)                                           |                                                              |
 | Thursday, April 25, 2019     | FINAL REVIEW                                                 |                                                              | OPEN LAB (staffed)                                           |
-| Monday, April 29, 2019       |                                                              | FINAL EXAM                                                   |                                                              |
-| Tuesday, April 30, 2019      | CANCELLED                                                    |                                                              | FINAL EXAM                                                   |
+| Monday, April 29, 2019       |                                                              | FINAL EXAM (in labs)                                         |                                                              |
+| Tuesday, April 30, 2019      | CANCELLED                                                    |                                                              | FINAL EXAM (in lab)                                          |
 | Wednesday, May 1, 2019       |                                                              | CANCELLED (no staff)                                         |                                                              |
 
 *Note: there is nothing scheduled in Exam Week for CSC 170 (the exams are in the regularly scheduled labs)*

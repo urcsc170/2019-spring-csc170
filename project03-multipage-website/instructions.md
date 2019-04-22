@@ -149,7 +149,7 @@ Here’s an example of excerpts that lead to subpages. (Notice the text that say
 
   - The include file(s) must be in a sub-folder named **inc**
   - When you move your NAV element into an include you must implement a solution (either PHP or JS) to fix the "current menu highlighter" that shows the user what page they're on.
-    - You don't necessarily have to use [the **menu-highlighter.js** file provided by the professor](http://urcsc170.org/rkostin/distribution/menu-highlighter.zip) - you can find and implement some other solution
+    - You don't necessarily have to use [the **menu-highlighter.js** file provided by the professor](media/menu-highlighter.zip) - you can find and implement some other solution
 
 # Suggested Workflow
 
@@ -166,7 +166,7 @@ Here’s an example of excerpts that lead to subpages. (Notice the text that say
 ## Register your Project 3 website with Google Analytics
 
 5.      In Google Analytics (www.google.com/analytics),setup a new Google Analytics Account for your Project 3 site
-        - The site will (eventually) reside at **urcsc170.org/accountname/project3** <br>*(where "accountname" is your account name)*
+        - The site will (eventually) reside at **csc170.org/accountname/project3** <br>*(where "accountname" is your account name)*
         - Find and copy the tracking code for your Project3 Google Analytics Account.
 
 
@@ -212,7 +212,7 @@ Remember: after you do this step, you must use a localhost to see your files on 
 - The image(s) you use must be in a sub-directory of the **project3** folder, and the sub-directory must be named **images**
 - The external CSS file must be in a sub directory of the **project3** folder, and the subdirectory must be named **css**
 
-In a web browser (any), go to this address to check your handiwork:<br> **urcsc170.org/accountname/project3** 
+In a web browser (any), go to this address to check your handiwork:<br> **csc170.org/accountname/project3** 
 (where "*accountname*" is your account name)
 
 # Report your work

@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - **25. Driving Traffic to Websites, part 1**
+  - **26. Driving Traffic to Websites, part 2**
 - Current assignments you should be working on
 
   - [Lab 17: Mobile Design](lab17-google-analytics/instructions.md) (due: Thursday, April 25)
@@ -19,6 +19,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **25. Driving Traffic to Websites, part 1**
   - **23. Mobile Design**
   - **22. Website Construction, part 2** with [Menu Highlighter - jQuery plugin (ZIP)](22-website-construction2/menu-highlighter.zip)
   - **21. JavaScript Libraries and Plugins**

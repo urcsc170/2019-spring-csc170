@@ -70,7 +70,7 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
      } 
      ```
 
-   - Take a look at your *homepage*.  At small widths you'll probably need to un-do the side-by-side positioning of the elements in your "hero" element; say you need to add a breakpoint at 650px (again, yours will probably be different!) you would write in your **styles.css** file something like this:
+   - Take a look at your *homepage*.  At small widths you'll probably need to un-do the side-by-side positioning of the elements in your "hero" element; say you need to add a breakpoint at 650px (again, yours will probably be different!) you would write in your **home.css** file something like this:
 
      ```css
      @media (max-width: 650px) {
